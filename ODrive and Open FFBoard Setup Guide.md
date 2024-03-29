@@ -114,8 +114,6 @@
     `odrv0.axis0.controller.config.control_mode = CONTROL_MODE_TORQUE_CONTROL`<br>
    <span style="color:green;"># Sets control mode to torque control</span>
     
-    `odrv0.axis0.controller.input_torque = 1`<br>
-   
     `odrv0.save_configuration()`<br>
    <span style="color:green;"># Save config</span>
 
